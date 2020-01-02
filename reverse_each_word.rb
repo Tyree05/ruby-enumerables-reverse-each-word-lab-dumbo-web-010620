@@ -7,5 +7,5 @@ def reverse_each_word(string)
     index += 1
   end
   final_a = final_a.join(' ')
-final_a
+  return final_a
 end
