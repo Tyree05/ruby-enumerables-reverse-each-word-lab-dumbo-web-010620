@@ -1,7 +1,7 @@
 require 'pry'
 def reverse_each_word(string)
   elements = string
-  new_a = %w[string]
+  new_a = %w[elements]
   final_a =[]
   index = 0
   while index < new_a.length
