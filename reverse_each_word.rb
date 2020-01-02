@@ -1,6 +1,6 @@
 require 'pry'
 def reverse_each_word(string)
-  new_a = string.split("")
+  new_a = string.split(" ")
   final_a =[]
   index = 0
   while index < new_a.length
