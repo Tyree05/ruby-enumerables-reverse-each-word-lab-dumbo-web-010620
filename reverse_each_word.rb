@@ -1,6 +1,6 @@
 require 'pry'
 def reverse_each_word(string)
-  elements =sentance
+  elements = string
   new_a = %w[string]
   final_a =[]
   index = 0
